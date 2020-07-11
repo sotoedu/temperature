@@ -17,7 +17,7 @@ $ ls /sys/bus/w1/devices
 $ python namds18b20.py
 
 vcc and data is linked register
-sensor   ||   board
+sensor   ||   board pin (Not GPIO)
 vcc      =   1 (3.3v)
 gnd      =   6  
 data     =   7 (GPIO4)
